@@ -86,8 +86,8 @@ body{
   text-decoration: none;
 }
 .btn img{
-    width: 70px;
-    position: static;
+    width: 55px;
+    position: relative;
     text-align: center;
 }
 .fa-facebook {
@@ -120,5 +120,9 @@ body{
 }
 .fa-telegram-plane{
   background: #45aaf2;
+  color: white;
+}
+.fa-zalo{
+  background: #0984e3;
   color: white;
 }
