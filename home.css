@@ -30,6 +30,13 @@ body{
     width: 100%;
     text-align: center;
 }
+.social-icons2{
+    position: absolute;
+    top: 95%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+}
 .btn{
     display: inline-block;
     width: 70px;
@@ -80,7 +87,7 @@ body{
 }
 .btn img{
     width: 70px;
-    position: relative;
+    position: static;
     text-align: center;
 }
 .fa-facebook {
@@ -97,5 +104,21 @@ body{
 }
 .fa-whatsapp{
   background: #4FCE5D;
+  color: white;
+}
+.fa-youtube{
+  background: #FF0000;
+  color: white;
+}
+.fa-yahoo{
+  background: #720e9e;
+  color: white;
+}
+.fa-viber{
+  background: #a55eea;
+  color: white;
+}
+.fa-telegram-plane{
+  background: #45aaf2;
   color: white;
 }
