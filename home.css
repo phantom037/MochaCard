@@ -58,13 +58,10 @@ body{
   text-align: center;
   text-decoration: none;
 }
-
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
 .btn img{
     width: 70px;
+    position: relative;
+    text-align: center;
 }
 .fa-facebook {
   background: #3B5998;
