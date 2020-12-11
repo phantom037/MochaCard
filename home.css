@@ -86,7 +86,8 @@ body{
   text-decoration: none;
 }
 .btn img{
-    width: 55px;
+    margin-top: auto;
+    width: 50px;
     position: relative;
     text-align: center;
 }
