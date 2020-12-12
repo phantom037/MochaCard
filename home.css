@@ -33,14 +33,14 @@ body{
 .social-icons{
     position: absolute;
     top: 80%;
-    transform: translateY(-20%);
+    transform: translateY(100%);
     width: 100%;
     text-align: center;
 }
 .social-icons2{
     position: absolute;
     top: 95%;
-    transform: translateY(-50%);
+    transform: translateY(80%);
     width: 100%;
     text-align: center;
 }
