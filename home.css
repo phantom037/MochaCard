@@ -1,6 +1,7 @@
 body{
     padding: 0;
     margin: 0;
+    background: #2d3436;
 }
 .profile {
     display: inline-block;
@@ -19,9 +20,15 @@ body{
 }
 .profile-pic img{
     width: 300px;
-    
     position: relative;
     text-align: center;
+}
+.name{
+    color: #fab1a0;
+    font: 
+}
+.name h3{
+    color: #ff7675;
 }
 .social-icons{
     position: absolute;
@@ -87,9 +94,12 @@ body{
 }
 .btn img{
     margin-top: auto;
-    width: 50px;
+    width: 55px;
     position: relative;
     text-align: center;
+    transition: 0.2s linear;
+    line-height: 50px;
+    font-size: 50px;
 }
 .fa-facebook {
   background: #3B5998;
