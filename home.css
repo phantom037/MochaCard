@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background: #2d3436;
+    background: #080000;
 }
 .profile {
     display: inline-block;
@@ -27,8 +27,11 @@ body{
     color: #fab1a0;
     font: 
 }
+.name h4{
+    color: #0be881;
+}
 .name h3{
-    color: #ff7675;
+    color: #ff3f34;
 }
 .social-icons{
     position: absolute;
@@ -94,7 +97,7 @@ body{
 }
 .btn img{
     margin-top: auto;
-    width: 55px;
+    width: 50px;
     position: relative;
     text-align: center;
     transition: 0.2s linear;
