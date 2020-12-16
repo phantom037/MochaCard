@@ -35,7 +35,7 @@ body{
 }
 .social-icons{
     position: absolute;
-    top: 65%;
+    top: 75%;
     transform: translateY(50%);
     width: 100%;
     text-align: center;
