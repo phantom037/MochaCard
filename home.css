@@ -35,14 +35,14 @@ body{
 }
 .social-icons{
     position: absolute;
-    top: 65%;
+    top: 70%;
     transform: translateY(50%);
     width: 100%;
     text-align: center;
 }
 .social-icons2{
     position: absolute;
-    top: 95%;
+    top: 83%;
     transform: translateY(60%);
     width: 100%;
     text-align: center;
