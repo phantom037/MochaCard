@@ -35,7 +35,7 @@ body{
 }
 .social-icons{
     position: absolute;
-    top: 70%;
+    top: 65%;
     transform: translateY(50%);
     width: 100%;
     text-align: center;
@@ -95,6 +95,13 @@ body{
   text-align: center;
   text-decoration: none;
 }
+.far {
+  padding: 10px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
 .btn img{
     margin-top: auto;
     width: 50px;
@@ -138,5 +145,13 @@ body{
 }
 .fa-zalo{
   background: #0984e3;
+  color: white;
+}
+.fa-chrome{
+  background: #7bed9f;
+  color: white;
+}
+.fa-paypal{
+  background: #3b7bbf;
   color: white;
 }
