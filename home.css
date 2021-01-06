@@ -19,7 +19,7 @@ body{
     transition: 0.2s linear;
 }
 .profile-pic img{
-    width: 300px;
+    width: 100px;
     position: relative;
     text-align: center;
 }
@@ -35,14 +35,21 @@ body{
 }
 .social-icons{
     position: absolute;
-    top: 75%;
+    top: 40%;
     transform: translateY(50%);
     width: 100%;
     text-align: center;
 }
 .social-icons2{
     position: absolute;
-    top: 88%;
+    top: 83%;
+    transform: translateY(60%);
+    width: 100%;
+    text-align: center;
+}
+.social-icons3{
+    position: absolute;
+    top: 96%;
     transform: translateY(60%);
     width: 100%;
     text-align: center;
@@ -139,8 +146,8 @@ body{
   background: #a55eea;
   color: white;
 }
-.fa-telegram-plane{
-  background: #45aaf2;
+.fa-telegram{
+  background: #0088cc;
   color: white;
 }
 .fa-zalo{
@@ -148,10 +155,26 @@ body{
   color: white;
 }
 .fa-chrome{
-  background: #7bed9f;
+  background: #f1c40f;
   color: white;
 }
 .fa-paypal{
   background: #3b7bbf;
   color: white;
+}
+.fa-spotify{
+  background: #1db954;
+  color: white;
+}
+.fa-soundcloud{
+  background: #ff7700;
+  color: white; 
+}
+.fa-twitter{
+  background: #00acee;
+  color: white; 
+}
+.fa-line{
+  background: #00b900;
+  color: white;   
 }
