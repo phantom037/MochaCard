@@ -23,14 +23,14 @@ body{
     position: relative;
     text-align: center;
 }
-.name{
+.name-phone-mail{
     color: #fab1a0;
     font: 
 }
-.name h4{
+.name-phone-mail h4{
     color: #fab1a0;
 }
-.name h3{
+.name-phone-mail h3{
     color: #0be881;
 }
 .social-icons{
@@ -42,14 +42,21 @@ body{
 }
 .social-icons2{
     position: absolute;
-    top: 83%;
+    top: 54%;
     transform: translateY(60%);
     width: 100%;
     text-align: center;
 }
 .social-icons3{
     position: absolute;
-    top: 96%;
+    top: 68%;
+    transform: translateY(60%);
+    width: 100%;
+    text-align: center;
+}
+.social-icons4{
+    position: absolute;
+    top: 82%;
     transform: translateY(60%);
     width: 100%;
     text-align: center;
@@ -130,10 +137,6 @@ body{
   background: #e84393;
   color: white;
 }
-.fa-whatsapp{
-  background: #4FCE5D;
-  color: white;
-}
 .fa-youtube{
   background: #FF0000;
   color: white;
@@ -177,4 +180,20 @@ body{
 .fa-line{
   background: #00b900;
   color: white;   
+}
+.fa-pinterest{
+  background: #e60023;
+  color: white;   
+}
+.fa-linkedin{
+  background: #0e76a8;
+  color: white;   
+}
+.fa-snapchat{
+  background: #fbc531;
+  color: white;   
+}
+.fa-whatsapp{
+  background: #25d366;
+  color: white;  
 }
